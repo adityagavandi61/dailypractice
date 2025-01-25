@@ -29,9 +29,10 @@ class bookingshow:
         for seattype,seats in self.seats.items():
             print(seattype,seats)
         seattype = input("Enter seat type: ")
+        seat_books = int(input("Enter number of seats: "))
         if self.seats[seattype] > 0:
-            self.seats[seattype] -= 1
-            self.bookings[self.booking_id] = [name,show,showtime,seattype]
+            self.seats[seattype] -= seat_books
+            self.bookings[self.booking_id] = [name,show,showtime,seattype,seat_books]
         else:
             print("No seats available")
     def view_booking(self):
