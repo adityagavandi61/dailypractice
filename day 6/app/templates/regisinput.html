@@ -1,0 +1,32 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1>Form with for loop</h1>
+{% for fields in form  %}
+    <div class="form-group">
+        <label for="{{ fields.id_for_label }}">{{ fields.label }}</label>
+        {{ fields }}
+        {% if fields.errors %}
+            <ul>
+                {% for error in fields.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+{% endfor %}
+<hr>
+{% for fields in form %}
+{{ fields.label }}: {{ fields }} <br>
+{% endfor %}
+<hr>
+{% for fields in form.visible_fields %}
+{{ fields.label }}: {{ fields }} <br>
+{% endfor %}
+<hr>
+{% for fields in form.hidden_fields %}
+{% comment %} {{ fields.label }}:  {% endcomment %}
+{{ fields }} <br> <p>Hidden input</p>
+{% endfor %}
+<hr>
+{% endblock %}
