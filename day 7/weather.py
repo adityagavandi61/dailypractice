@@ -17,4 +17,4 @@ def fetch_weather(api_key):
 
 
 api_key = "YOUR_API_KEY"
-fetch_weather("a10cb430592fd908488e09b739710695")
+fetch_weather(api_key)
