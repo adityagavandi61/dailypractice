@@ -6,4 +6,4 @@ function revstring(str){
     console.log("The reverse of the string is:", rev);
 }
 // Example usage
-revstring("aditya"); // Output: "olleh"
+revstring("aditya"); // Output: "aytida"
