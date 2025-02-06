@@ -1,7 +1,6 @@
 import random
 import string
 
-
 def generate_password():
     pass_length = int(input("Enter a length of password: "))
     if pass_length < 4:
@@ -28,7 +27,7 @@ def generate_password():
         remaining_length = pass_length - len(characters)
         password = characters
         
-        for _ in range(remaining_length):
+        for _ in range(pass_length):
             character = random.choice(all_charaters)
             password.append(character)
 
