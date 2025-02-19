@@ -1,0 +1,56 @@
+{
+    "creater": "siv",
+    "topic": "python ",
+    "questions": [
+        {
+            "Question text": "What is the Python built-in function to check if a value is an integer?",
+            "options": [
+                "A. int() function",
+                "B. float()",
+                "C. str()",
+                "D. type()"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What does the .format() method in Python do?",
+            "options": [
+                "It returns the string representation of an object.",
+                "It concatenates strings.",
+                "It formats a string with variables.",
+                "It converts data types."
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "What is the purpose of the 'if __name__ == '__main__':' line in Python?",
+            "options": [
+                "To check if a module is being run as a script or imported.",
+                "To import modules.",
+                "To define functions.",
+                "To assign variables."
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "Which of the following data types is NOT a mutable type in Python?",
+            "options": [
+                "list",
+                "tuple",
+                "set",
+                "dict"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "What does the 'len()' function in Python do?",
+            "options": [
+                "It returns the length of an object.",
+                "It checks if an object is empty.",
+                "It assigns a value to a variable.",
+                "It increments a counter."
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

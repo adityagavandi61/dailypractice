@@ -1,0 +1,56 @@
+{
+    "creater": "rohit",
+    "topic": "Computer basics",
+    "questions": [
+        {
+            "Question text": "What is the primary function of a motherboard?",
+            "options": [
+                "A. To store data",
+                "B. To process information",
+                "C. To provide power",
+                "D. To connect peripherals"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "Which type of memory is used by the CPU to perform calculations?",
+            "options": [
+                "A. RAM",
+                "B. ROM",
+                "C. Hard Drive",
+                "D. Solid State Drive"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What does a firewall do on a computer?",
+            "options": [
+                "A. It provides internet connection",
+                "B. It blocks unauthorized access to the network",
+                "C. It displays graphics",
+                "D. It manages data storage"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "Which type of software is used for data backup?",
+            "options": [
+                "A. Operating System",
+                "B. Productivity Software",
+                "C. Antivirus Software",
+                "D. Backup Software"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "Question text": "What does a DNS (Domain Name System) do?",
+            "options": [
+                "A. It provides internet connection",
+                "B. It translates website names to IP addresses",
+                "C. It manages data storage",
+                "D. It displays graphics"
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

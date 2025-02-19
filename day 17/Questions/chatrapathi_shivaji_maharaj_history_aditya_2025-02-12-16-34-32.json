@@ -1,0 +1,56 @@
+{
+    "creator": "aditya",
+    "topic": "chatrapathi shivaji maharaj history",
+    "questions": [
+        {
+            "Question text": "Who was the founder of the Maratha Empire?",
+            "options": [
+                "A. Shivaji",
+                "B. Sambhaji",
+                "C. Rajaram",
+                "D. Madhuraj"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What was the name of the fort built by Shivaji at the entrance of Mumbai Harbor?",
+            "options": [
+                "A. Fort Kochi",
+                "B. Fort St George",
+                "C. Sion Fort",
+                "D. Princetown"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "Question text": "Which battle marked the beginning of Shivaji's military campaigns against the Mughal Empire?",
+            "options": [
+                "A. Battle of Pani Kalan",
+                "B. Battle of Sinhagad",
+                "C. Battle of Rajgad",
+                "D. Battle of Panipat"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What was the name of Shivaji's mother?",
+            "options": [
+                "A. Jijabai",
+                "B. Soyarabai",
+                "C. Kashibai",
+                "D. Savitribai"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "Who was Shivaji's trusted advisor and military commander?",
+            "options": [
+                "A. Bajirao I",
+                "B. Sambhaji",
+                "C. Ram Raj,",
+                "D. Bhat"
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

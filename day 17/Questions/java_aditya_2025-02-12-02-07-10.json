@@ -1,0 +1,56 @@
+{
+    "creator": "aditya",
+    "topic": "Java",
+    "questions": [
+        {
+            "Question text": "What is the main idea of Object Oriented Programming (OOP)?",
+            "options": [
+                "A. Encapsulation",
+                "B. Abstraction",
+                "C. Inheritance",
+                "D. Polymorphism"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "Which of the following is NOT a primitive data type in Java?",
+            "options": [
+                "A. int",
+                "B. float",
+                "C. boolean",
+                "D. String"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "Question text": "What does the Java 'this' keyword refer to?",
+            "options": [
+                "A. The current object being referenced",
+                "B. The class of the current object",
+                "C. The constructor of the current object",
+                "D. The parent class"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the 'try-catch' block in Java?",
+            "options": [
+                "A. To throw exceptions",
+                "B. To catch and handle exceptions",
+                "C. To create threads",
+                "D. To declare variables"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What does the Java 'enum' keyword allow us to define?",
+            "options": [
+                "A. Classes",
+                "B. Interfaces",
+                "C. Enumerations",
+                "D. Methods"
+            ],
+            "correct_answer": "C"
+        }
+    ]
+}

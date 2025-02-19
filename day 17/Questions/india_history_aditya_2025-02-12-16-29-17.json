@@ -1,0 +1,56 @@
+{
+    "creator": "aditya",
+    "topic": "india history",
+    "questions": [
+        {
+            "Question text": "Who was the founder of the Mauryan Empire?",
+            "options": [
+                "A. Chandragupta Maurya",
+                "B. Ashoka",
+                "C. Porus",
+                "D. Alexander the Great"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "Which ancient Indian kingdom was known for its powerful navy?",
+            "options": [
+                "A. Gupta Empire",
+                "B. Mauryan Empire",
+                "C. Chola Empire",
+                "D. Pallava Kingdom"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "Who was the first Mughal emperor?",
+            "options": [
+                "A. Akbar",
+                "B. Babur",
+                "C. Humayun",
+                "D. Salim"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "The Indus Valley Civilization is known for its advanced features in which of the following fields?",
+            "options": [
+                "A. Architecture",
+                "B. Engineering",
+                "C. Agriculture",
+                "D. Trade"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "Which Indian emperor was known as the 'Great' and is considered one of the greatest emperors in Indian history?",
+            "options": [
+                "A. Ashoka",
+                "B. Chandragupta Maurya",
+                "C. Akbar",
+                "D. Babur"
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

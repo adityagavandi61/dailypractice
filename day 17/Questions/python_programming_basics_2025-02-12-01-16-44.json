@@ -1,0 +1,45 @@
+{
+    "topic": "Python Programming Basics",
+    "questions": [
+        {
+            "Question text": "What is the main use of the 'print' function in Python?",
+            "options": [
+                "A. To take user input",
+                "B. To display output",
+                "C. To store data",
+                "D. To loop through iterations"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the purpose of the 'len' function in Python?",
+            "options": [
+                "A. To convert a string to uppercase",
+                "B. To get the length of a sequence",
+                "C. To check if a variable is True or False",
+                "D. To repeat a statement"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is 'None' in Python?",
+            "options": [
+                "A. An empty list",
+                "B. A boolean value indicating falsity",
+                "C. A variable that can hold any data type",
+                "D. A string containing only spaces"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the 'for' loop used for in Python?",
+            "options": [
+                "A. To repeat a statement",
+                "B. To check if a variable is True or False",
+                "C. To iterate over a sequence of data",
+                "D. To take user input"
+            ],
+            "correct_answer": "C"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "topic": "Javascript Basics",
+    "questions": [
+        {
+            "Question text": "What is the primary data type used to store strings in JavaScript?",
+            "options": [
+                "A. Number",
+                "B. Boolean",
+                "C. String",
+                "D. Array"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "How do you declare a variable in JavaScript?",
+            "options": [
+                "A. var x = 5;",
+                "B. let y = 3;",
+                "C. const z = 2;",
+                "D. all of the above"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "Question text": "What is the purpose of the 'this' keyword in JavaScript?",
+            "options": [
+                "A. To declare a variable",
+                "B. To access the current object",
+                "C. To return true or false",
+                "D. To loop through an array"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "How do you access an element in an array using its index?",
+            "options": [
+                "A. Array.name[index]",
+                "B. name[index]",
+                "C. Array['name'][index]",
+                "D. Array.name[index]"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the difference between '==', '===', and '!=' operators in JavaScript?",
+            "options": [
+                "A. Only equality and inequality",
+                "B. Loose and strict equality, and not equal",
+                "C. Not applicable to all data types",
+                "D. Loose and strict inequality"
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "creator": "rohit",
+    "topic": "python basics",
+    "questions": [
+        {
+            "Question text": "What is the print function in Python?",
+            "options": [
+                "A. A statement",
+                "B. A keyword",
+                "C. A type",
+                "D. None of the above"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the if statement in Python?",
+            "options": [
+                "A. To repeat a block of code",
+                "B. To skip a block of code",
+                "C. To execute a block of code only if certain condition is met",
+                "D. None of the above"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "What does the variable 'x' hold in the following Python code: x = 5?",
+            "options": [
+                "A. An integer",
+                "B. A float",
+                "C. A string",
+                "D. None of the above"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the 'for' loop in Python?",
+            "options": [
+                "A. To repeat a block of code",
+                "B. To skip a block of code",
+                "C. To execute a block of code for each item in an iterable",
+                "D. None of the above"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "What is the result of '1 + 2' in Python?",
+            "options": [
+                "A. 3",
+                "B. 10",
+                "C. 11",
+                "D. 20"
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

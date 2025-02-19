@@ -1,0 +1,55 @@
+{
+    "topic": "Python Basics",
+    "questions": [
+        {
+            "Question text": "What is the print() function used for?",
+            "options": [
+                "A. To assign a value to a variable",
+                "B. To print output to the screen",
+                "C. To loop over a range of numbers",
+                "D. To import a module"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the purpose of the 'if' statement in Python?",
+            "options": [
+                "A. To create a for loop",
+                "B. To check conditions and execute code accordingly",
+                "C. To import a module",
+                "D. To assign a value to a variable"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the difference between '=' and '==' in Python?",
+            "options": [
+                "A. '=' is used for assignment while '==' is used for comparison",
+                "B. '=' is used for comparison while '==' is used for assignment",
+                "C. '=' is used for logical operations while '==' is used for arithmetic operations",
+                "D. '=' is used for arithmetic operations while '==' is used for logical operations"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What does the 'len()' function do in Python?",
+            "options": [
+                "A. It returns the number of items in a list",
+                "B. It returns the length of a string",
+                "C. It returns the value of a variable",
+                "D. It returns the index of an element"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the 'range()' function in Python?",
+            "options": [
+                "A. To create a list of numbers",
+                "B. To loop over a range of numbers",
+                "C. To import a module",
+                "D. To assign a value to a variable"
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

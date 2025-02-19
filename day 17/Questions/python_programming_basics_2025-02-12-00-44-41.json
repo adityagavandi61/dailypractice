@@ -1,0 +1,45 @@
+{
+    "topic": "Python Programming Basics",
+    "questions": [
+        {
+            "Question text": "What is the purpose of the 'len()' function in Python?",
+            "options": [
+                "A. To concatenate strings",
+                "B. To repeat a string",
+                "C. To get the length of a list",
+                "D. To convert integers to floats"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "Question text": "What is the difference between the '==' and 'is' operators in Python?",
+            "options": [
+                "A. '==' checks for equality, while 'is' checks for identity",
+                "B. '==' checks for identity, while 'is' checks for equality",
+                "C. '==' checks for type, while 'is' checks for value",
+                "D. '==' and 'is' are the same"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "How do you iterate over a dictionary in Python?",
+            "options": [
+                "A. Using a for loop with keys()",
+                "B. Using a for loop with values()",
+                "C. Using the 'in' keyword",
+                "D. Using slicing"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "What is the purpose of the 'pass' statement in Python?",
+            "options": [
+                "A. To skip to the next line",
+                "B. To execute a block of code",
+                "C. To raise an exception",
+                "D. To return a value"
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

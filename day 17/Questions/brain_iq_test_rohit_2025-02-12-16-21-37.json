@@ -1,0 +1,56 @@
+{
+    "creater": "rohit",
+    "topic": "brain iq test",
+    "questions": [
+        {
+            "Question text": "What is the primary function of the cerebrum?",
+            "options": [
+                "A. To control breathing",
+                "B. To process sensory information",
+                "C. To regulate body temperature",
+                "D. To process language"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "Which part of the brain is responsible for controlling movement?",
+            "options": [
+                "A. Cerebrum",
+                "B. Cerebellum",
+                "C. Brainstem",
+                "D. Spinal cord"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the term for the process by which the brain reorganizes itself in response to new experiences?",
+            "options": [
+                "A. Neuroplasticity",
+                "B. Synaptic pruning",
+                "C. Myelination",
+                "D. Dendritic growth"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "Which neurotransmitter is often referred to as the 'mood regulator'?",
+            "options": [
+                "A. Dopamine",
+                "B. Serotonin",
+                "C. Acetylcholine",
+                "D. GABA"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the term for the minimum number of years of education required to work in a particular profession?",
+            "options": [
+                "A. Education level",
+                "B. Qualification threshold",
+                "C. Standardized test score",
+                "D. IQ score"
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

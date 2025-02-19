@@ -1,0 +1,56 @@
+{
+    "creator": "aditya",
+    "topic": "general knowledge",
+    "questions": [
+        {
+            "Question text": "What is the capital of France?",
+            "options": [
+                "A. Berlin",
+                "B. Paris",
+                "C. Rome",
+                "D. London"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "Which planet in our solar system is known as the 'Red Planet'?",
+            "options": [
+                "A. Earth",
+                "B. Mars",
+                "C. Jupiter",
+                "D. Saturn"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "Who painted the famous painting 'The Starry Night'?",
+            "options": [
+                "A. Leonardo da Vinci",
+                "B. Vincent van Gogh",
+                "C. Pablo Picasso",
+                "D. Claude Monet"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the largest mammal on Earth?",
+            "options": [
+                "A. Elephant",
+                "B. Blue whale",
+                "C. Lion",
+                "D. Giraffe"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "Which musician is often referred to as the 'King of Rock and Roll'?",
+            "options": [
+                "A. Elvis Presley",
+                "B. Chuck Berry",
+                "C. Little Richard",
+                "D. Jerry Lee Lewis"
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

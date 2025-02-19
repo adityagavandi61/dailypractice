@@ -1,0 +1,56 @@
+{
+    "creater": "rohit",
+    "topic": "brain iq test",
+    "questions": [
+        {
+            "Question text": "What is the primary function of the cerebrum?",
+            "options": [
+                "A. Control the body's autonomic functions",
+                "B. Control voluntary movements and senses",
+                "C. Regulate body temperature",
+                "D. Produce hormones"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "Question text": "What is the name of the largest part of the brain?",
+            "options": [
+                "A. Cerebrum",
+                "B. Cerebellum",
+                "C. Brainstem",
+                "D. Spinal cord"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "Which part of the brain is responsible for processing sensory information?",
+            "options": [
+                "A. Frontal lobe",
+                "B. Parietal lobe",
+                "C. Temporal lobe",
+                "D. Occipital lobe"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "Question text": "What is the name of the brain wave that is typically seen in a state of deep relaxation?",
+            "options": [
+                "A. Alpha wave",
+                "B. Beta wave",
+                "C. Theta wave",
+                "D. Delta wave"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "Question text": "Which part of the brain is responsible for controlling movement and balance?",
+            "options": [
+                "A. Cerebrum",
+                "B. Pons",
+                "C. Medulla oblongata",
+                "D. Cerebellum"
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}
